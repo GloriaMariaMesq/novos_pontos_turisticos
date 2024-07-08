@@ -1,0 +1,31 @@
+header {
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+  }
+  
+  header, footer {
+    background: #369b85;
+    color: white;
+    padding: 16px;
+  }
+  
+  #logo-header {
+    font-size: 32px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  
+  main {
+    background-color: #EF7D19;
+    padding: 16px;
+    color: white;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+  }
+  
+  img {
+    margin: 30px;
+  }
+  
+  
